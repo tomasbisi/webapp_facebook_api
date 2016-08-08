@@ -5,7 +5,8 @@ Jquery /
 HTML / 
 CSS /
 Bootstrap /
-Facebook API
+Facebook API /
+Mobile responsive
 
 Deployed:
 http://chart-challenge-tobisi.c9users.io/
