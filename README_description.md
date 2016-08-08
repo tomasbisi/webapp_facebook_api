@@ -1,9 +1,9 @@
 Social Media App that will display data from Facebook Pages. 
 
-PHP
-Jquery
+PHP /
+Jquery /
 HTML / CSS
-Bootstrap
+Bootstrap /
 Facebook API
 
 Deployed:
